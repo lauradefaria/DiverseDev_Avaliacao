@@ -1,0 +1,9 @@
+Questão 5.
+
+for (int i = -5; i <= 7; i += 3)
+{
+    Console.WriteLine(i);
+}
+
+Resposta: –5, –2, 1, 4, 7 (Letra 'E')
+Justificativa: Na função 'for', o primeiro parâmetro está inicializando a variável 'i' com o valor -5, o segundo parâmetro é a condição de parada, indicando que deve imprimir o valor caso 'i' seja menor ou igual a 7. Por último, o terceiro parâmetro indica que após imprimir o valor de 'i' (quando a condição anterior for aceita e realizar o conteúdo dentro do 'for'), a variável ira somar mais 3 unidades, retornando para a avaliação da condição. Com isso, o primeiro valor impresso será -5 e o último 7, sempre acrescentando 3 unidades.

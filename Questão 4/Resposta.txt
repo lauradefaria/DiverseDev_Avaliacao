@@ -1,0 +1,8 @@
+Questão 4.
+
+Int32 numero;
+numero = Convert.ToInt16(!(21 > 21));
+Console.WriteLine(numero);
+
+Resposta: 1  (Letra 'C')
+Justificativa: A expressão (21>21) é falsa, uma vez que os números são iguais, com isso o resultado da operação é "false". Contudo, há um operador de negação, convertendo o resultado anterior para "true". A função 'Convert.ToInt16' serve para converter o valor "true" para um inteiro de 16 bits, transformando o valor booleano "true" no inteiro "1".
