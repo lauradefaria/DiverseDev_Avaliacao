@@ -6,7 +6,7 @@
 *******************************************************************************/
 
 using System;
-namespace Questao1
+namespace Questao3
 {
     class Program{
         static void Main(){
