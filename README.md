@@ -22,6 +22,6 @@ Este repositório possui as questões resolvidas durante a avaliação do Coding
 ## Clone
 
 - Para clonar esse repositório na sua máquina utilize
-    > https://github.com/lauradefaria/Coding_Tank_AdaTech.git
+    > https://github.com/lauradefaria/DiverseDev_Avaliacao.git
 
 
