@@ -9,10 +9,9 @@ Escreva um programa que calcule e escreva a multiplicação e a divisão inteira
 <div align='center'>
     <h4>Exemplos de teste</h4>
     <table>
-        <tr><td>Entrada 1</td> <td>Entrada 2</td> <td>Saída</td></tr>
-        <tr><td>5</td> <td>6</td> <td>OK</td></tr>
-        <tr><td>14</td> <td>-2</td> <td>OK</td></tr>
-        <tr><td>10</td> <td>00</td> <td>ERRO</td></tr>
-        <tr><td>a</td> <td>b</td> <td>ERRO</td></tr>
+        <tr><td>Entrada 1</td> <td>Entrada 2</td> <td>Saídas</td></tr>
+        <tr><td>20</td> <td>4</td> <td>80 : 5</td></tr>
+        <tr><td>-10</td> <td>5</td> <td>-50 : -2</td></tr>
+        <tr><td>10</td> <td>0</td> <td>ERRO</td></tr>
     </table>
 </div>
