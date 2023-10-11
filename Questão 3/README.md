@@ -1,25 +1,9 @@
-# Calculadora
+# Classificador de palavras
 
-*Desafio 1: Calculadora*
-
-Objetivo: **Escrever um programa que solicite ao usuário dois números e realize operações 
-simples de adição, subtração, multiplicação e divisão.**
+Objetivo: **Ler uma frase do usuário e classifica: as palavras completamente maiúsculas e minúsculas, palavras que começam com letra maiúscula e minúscula, por fim mostrar a contagem total de palavras**
 
 *Instruções:*
 
-Solicite ao usuário que insira dois números.
-Realize as operações de adição, subtração, multiplicação e divisão entre esses números.
-Exiba os resultados das operações no console.
+Escreva um programa que recebe como entrada uma frase do usuário. Como saída o programa deve exibir no console as seguintes informações: quantas palavras são maiúsculas, quantas palavras são minúsculas, quantas palavras iniciam com letra maiúscula, quantas palavras iniciam com letra minúscula e a quantidade de palavras.
 
-Dica: Use variáveis para armazenar os números de entrada e os resultados intermediários.
 
-<div align='center'>
-    <h4>Exemplos de teste</h4>
-    <table>
-        <tr><td>Entrada 1</td> <td>Entrada 2</td> <td>Saída</td></tr>
-        <tr><td>5</td> <td>6</td> <td>OK</td></tr>
-        <tr><td>14</td> <td>-2</td> <td>OK</td></tr>
-        <tr><td>10</td> <td>00</td> <td>ERRO</td></tr>
-        <tr><td>a</td> <td>b</td> <td>ERRO</td></tr>
-    </table>
-</div>
