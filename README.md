@@ -11,11 +11,13 @@
 Este repositório possui as questões resolvidas durante a avaliação do Coding Tank ADA | DiverseDEV | Mercado Eletônico.
 
 
-## Exercícios desenvolvidos:
+## Questões
 
-1. ***<a href="https://github.com/lauradefaria/Coding_Tank_AdaTech/Aula-1">Aula 1</a>: Calculadora; Calculadora de Idade; Calculadora de gorgeta; Conversão de moeda.***  <br/>
-2. ***<a href="https://github.com/lauradefaria/Coding_Tank_AdaTech/Aula-2">Aula 2</a>: Multa da Pesca; Classificação do Nadador; Vendas; Média das Notas; Opção de Cursos; Palíndromos; Reajuste de Salários.***  <br/>
-3. ***<a href="https://github.com/lauradefaria/Coding_Tank_AdaTech/Aula-3">Aula 3</a>: Exercício 1-4.***  <br/>
+1. ***<a href="https://github.com/lauradefaria/DiverseDev_Avaliacao/tree/main/Quest%C3%A3o%201">Questão 1</a>***  <br/>
+2. ***<a href="https://github.com/lauradefaria/DiverseDev_Avaliacao/tree/main/Quest%C3%A3o%202">Questão 2</a>***  <br/>
+3. ***<a href="https://github.com/lauradefaria/DiverseDev_Avaliacao/tree/main/Quest%C3%A3o%203">Questão 3</a>***  <br/>
+4. ***<a href="https://github.com/lauradefaria/DiverseDev_Avaliacao/tree/main/Quest%C3%A3o%204">Questão 4</a>***  <br/>
+5. ***<a href="https://github.com/lauradefaria/DiverseDev_Avaliacao/tree/main/Quest%C3%A3o%205">Questão 5</a>***  <br/>
 
 ## Clone
 
