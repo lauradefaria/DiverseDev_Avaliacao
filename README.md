@@ -1,14 +1,14 @@
  [![author](https://img.shields.io/badge/author-lauradefaria-purple.svg)](https://github.com/lauradefaria)<br/>
  
  <p align="center">
-    <img src="https://github.com/lauradefaria/Coding_Tank_AdaTech/imgs/diverseDEV.png" width="400">
+    <img src="https://github.com/lauradefaria/DiverseDev_Avaliacao/imgs/diverseDEV.png" width="400">
 </p>
 
-# CSharp
+# Avaliação do Coding Tank
 
-***Lista de exercícios práticos em C Sharp***
+***Questões práticos em C#***
 
-Este repositório possui uma lista de exercícios práticos desenvolvidos em C# durante o Coding Tank ADA | DiverseDEV | Mercado Eletônico.
+Este repositório possui as questões resolvidas durante a avaliação do Coding Tank ADA | DiverseDEV | Mercado Eletônico.
 
 
 ## Exercícios desenvolvidos:
