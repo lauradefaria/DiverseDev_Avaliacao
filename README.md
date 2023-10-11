@@ -1,7 +1,7 @@
  [![author](https://img.shields.io/badge/author-lauradefaria-purple.svg)](https://github.com/lauradefaria)<br/>
  
  <p align="center">
-    <img src="https://github.com/lauradefaria/DiverseDev_Avaliacao/imgs/diverseDEV.png" width="400">
+    <img src="https://github.com/lauradefaria/DiverseDev_Avaliacao/blob/main/imgs/diverseDEV.png" width="400">
 </p>
 
 # Avaliação do Coding Tank
